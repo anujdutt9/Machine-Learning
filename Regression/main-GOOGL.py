@@ -16,7 +16,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, roc_curve, roc_auc_score
 
 
-
 # Load Google Stock prices as a DataFrame (Table)
 df = quandl.get('WIKI/GOOGL')
 print(df.head())
@@ -88,3 +87,5 @@ print('Predicted Output: \n', pred)
 # Compute Accuracy of Classifier
 accuracy = clf.score(X_test, y_test)
 print('\nAccuracy: ',accuracy)
+
+# --------------------- EOC --------------------------
