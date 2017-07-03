@@ -22,7 +22,7 @@
 
 
 
-For theory on this, please refer to my blog:
+# For theory on this, please refer to my blog posts:
 * [Part-1](https://anujdutt9.github.io/ML_LinearRegression.html)
 * [Part-2](https://anujdutt9.github.io/ML_GradientDescent.html)
 * [Part-3](https://anujdutt9.github.io/ML_LinearRegressionCode.html)
