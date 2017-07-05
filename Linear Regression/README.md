@@ -10,15 +10,23 @@
 * Python3
 
 
-# Input Data Scatter Plot
+# Linear Regression using R-Squared
+
+* Input Data Scatter Plot
 
 ![Output a1](ScatterPlot.png?raw=true "Output a1")
 
 
 
-# Line Fit to Input Data
+* Line Fit to Input Data
 
 ![Output a1](FitLine.png?raw=true "Output a1")
+
+
+
+# Linear Regression using Gradient Descent
+
+![Output a1](LRGradientDescent.png?raw=true "Output a1")
 
 
 
