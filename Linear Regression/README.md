@@ -29,6 +29,9 @@
 ![Output a1](LRGradientDescent.png?raw=true "Output a1")
 
 
+# Linear Regression using Tensorflow
+
+![Output a1](lrtf.png?raw=true "Output a1")
 
 # For theory on this, please refer to my blog posts:
 * [Part-1](https://anujdutt9.github.io/ML_LinearRegression.html)
