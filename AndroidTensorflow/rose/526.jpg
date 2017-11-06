@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html class="ie ie6" lang="en">
+<![endif]-->
+<!--[if IE 7 ]>
+<html class="ie ie7" lang="en">
+<![endif]-->
+<!--[if IE 8 ]>
+<html class="ie ie8" lang="en">
+<![endif]-->
+<!--[if (gte IE 9)|!(IE)]> ><! <![endif]-->
+<html lang='en'>
+<!-- <![endif] -->
+<head>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0e15e1d33c","applicationID":"13728991","transactionName":"cFhfF0JdX1xQQ00BDVJZXwZcQRxEWlUDGxY=","queueTime":0,"applicationTime":28,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta content='Wallpaper, Screensaver, high resolution photographs, HD, slideshows, maps, free software for desktop, mobile, android, OIs' name='keywords'>
+<meta content="Today's Free Photo for Windows, Mac, Android, iPhone, and iPad." name='description'>
+<meta content='Webshots' name='author'>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='Bitterroot National Forest, Montana' property='og:title'>
+<meta content='http://www.webshots.com/photos/mountains/bitterroot-national-forest--montana' property='og:url'>
+<meta content='http://d188578y7fxb.cloudfront.net/5542d728b8e02edab8c4885c8f35c1ac731f44c6802209f35621f6b7bbac90df/1024x768.jpg' property='og:image'>
+<meta content='photo' name='twitter:card'>
+<meta content='@webshots' name='twitter:site'>
+<meta content='Bitterroot National Forest, Montana' name='twitter:title'>
+<meta content='http://d188578y7fxb.cloudfront.net/5542d728b8e02edab8c4885c8f35c1ac731f44c6802209f35621f6b7bbac90df/1024x768.jpg' name='twitter:image'>
+<meta content='640' name='twitter:image:width'>
+<meta content='360' name='twitter:image:height'>
+<title>Webshots - Bitterroot National Forest, Montana</title>
+<meta content='' name='description'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:300,400' rel='stylesheet' type='text/css'>
+<link href='/zchannels/css/normalize.css' rel='stylesheet'>
+<link href='/zchannels/css/channels-bootstrap.css' rel='stylesheet'>
+<link href='/zchannels/app.css' rel='stylesheet'>
+<link href='/zchannels/css/main.css' rel='stylesheet'>
+<link href='/zchannels/css/photos.css' rel='stylesheet'>
+<script src="/assets-pipe/shared-pipeline-43cb5658d7cd5c4a5c7d4586facc30f9.js"></script>
+</head>
+<body>
+<nav class='navbar navbar-default navbar-fixed-top' id='channels-navbar'>
+<div class='container'>
+<div class='navbar-header'>
+<a class='navbar-brand' href='/'></a>
+</div>
+</div>
+</nav>
+<div class='container'>
+<script async='' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<!-- webshots.responsive -->
+<ins class='adsbygoogle' data-ad-client='ca-pub-7895663061972984' data-ad-format='auto' data-ad-slot='5026594555' style='display:block'></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class='row row-centered'>
+<div class='col-md-8 col-centered'>
+<div class='item'>
+<div class='content'>
+<div class='row'>
+<div class='photos-title'>Bitterroot National Forest, Montana</div>
+</div>
+<img class='img-responsive img-centered' src='http://d188578y7fxb.cloudfront.net/5542d728b8e02edab8c4885c8f35c1ac731f44c6802209f35621f6b7bbac90df/1024x768.jpg'>
+<div class='row'>
+<div class='col-md-8'>
+<div class='latest'>
+<a href='/latest'>Want to see the latest photos?</a>
+</div>
+</div>
+<div class='col-md-4 share-container'>
+<div class='addthis_toolbox addthis_default_style addthis_32x32_style' data-addthis-toolbox='' data-title='Bitterroot National Forest, Montana' data-url='http://d188578y7fxb.cloudfront.net/5542d728b8e02edab8c4885c8f35c1ac731f44c6802209f35621f6b7bbac90df/1024x768.jpg'>
+<a class='addthis_button_email pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_email.png' width='25'>
+</a>
+<a class='addthis_button_google_plusone_share pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_google_plus.png' width='25'>
+</a>
+<a class='addthis_button_tumblr pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_tumblr.png' width='25'>
+</a>
+<a class='addthis_button_pinterest_share pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_pinterest.png' width='25'>
+</a>
+<a class='addthis_button_twitter pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_twitter.png' width='25'>
+</a>
+<a class='addthis_button_facebook pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_facebook.png' width='25'>
+</a>
+</div>
+</div>
+<div class='col-md-8'>
+<p class='photos-subtitle'>For a whole week of photos, get our FREE email:</p>
+<input id='email' placeholder='Email' type='email'>
+<div class='btn' id='email-button' type='submit'>Sign Up</div>
+</div>
+<div class='col-md-8'>
+<p class='photos-minortitle hidden' id='confirmation'>Thanks! Please go to your email and click the confirmation link.</p>
+</div>
+</div>
+<div class='row'>
+<div class='photos-footer-links-spacer'></div>
+<div class='photos-footer-links'>
+<a href='/'>© 2015 Webshots</a>
+<a href='/desktop'>Desktop</a>
+<a href='/mobile'>Mobile</a>
+<a href='/about'>About</a>
+<a href='/terms'>Terms</a>
+<a href='/privacy'>Privacy</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52334e3c5e7579e0' type='text/javascript'></script>
+<script>
+  window.openphoto = true
+  window.open_ios = "openphoto:://photo?path=mountains/bitterroot-national-forest--montana";
+</script>
+</body>
+</html>
+

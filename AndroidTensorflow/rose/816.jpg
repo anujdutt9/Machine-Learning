@@ -1,0 +1,1290 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 " lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="en"><![endif]-->
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>www.souvenirsofparis.com - Souvenirs of Paris</title>
+		<meta name="description" content="Buy over 300 souvenirs of Paris ship world wide" />
+		<meta name="keywords" content="Souvenirs of Paris" />
+		<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" /> 
+		<meta name="apple-mobile-web-app-capable" content="yes" /> 
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/~souvenirfm/img/favicon.ico?1473141676" />
+		<link rel="shortcut icon" type="image/x-icon" href="/~souvenirfm/img/favicon.ico?1473141676" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/global.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/autoload/responsive-tables.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/autoload/uniform.default.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/product_list.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/modules/blockfacebook/css/blockfacebook.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/modules/homefeatured/css/homefeatured.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/modules/themeconfigurator/css/hooks.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/modules/themeconfigurator/css/theme5.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/productcomments/productcomments.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/homeslider/homeslider.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/modules/paypal/views/css/paypal.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/~souvenirfm/modules/blockreinsurance/style.css" type="text/css" media="all" />
+			
+
+			
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,600" type="text/css" media="all" />
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body id="index" class="index hide-left-column hide-right-column lang_en">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+					<div class="banner">
+						<div class="container">
+							<div class="row">
+								
+							</div>
+						</div>
+					</div>
+					<div class="nav">
+						<div class="container">
+							<div class="row">
+								<nav><!-- Block user information module NAV  -->
+<div class="header_user_info">
+			<a class="login" href="http://www.souvenirsofparis.com/~souvenirfm/My-account" rel="nofollow" title="Login to your customer account">
+			Sign in
+		</a>
+	</div>
+<!-- /Block usmodule NAV --><!-- Block currencies module -->
+<!-- /Block currencies module --><!-- Block languages module -->
+<!-- /Block languages module -->
+</nav>
+							</div>
+						</div>
+					</div>
+					<div>
+						<div class="container">
+							<div class="row">
+								<div id="header_logo">
+									<a href="http://www.souvenirsofparis.com/~souvenirfm/" title="Souvenirs of Paris">
+										<img class="logo img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/img/souvenirs-of-paris-1456318433.jpg" alt="Souvenirs of Paris" width="400" height="150"/>
+									</a>
+								</div>
+								<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="http://www.souvenirsofparis.com/~souvenirfm/Research" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Search" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Search</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP --><!-- MODULE Block cart -->
+<div class="col-sm-4 clearfix">
+	<div class="shopping_cart">
+		<a href="http://www.souvenirsofparis.com/~souvenirfm/Order" title="View my shopping cart" rel="nofollow">
+			<b>Cart</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Product</span>
+			<span class="ajax_cart_product_txt_s unvisible">Products</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(empty)</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							No products
+						</p>
+												<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost">
+																			$13.00
+																	</span>
+								<span>
+									Shipping  
+								</span>
+							</div>
+																					<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">$ 0.00</span>
+								<span>Total</span>
+							</div>
+													</div>
+						<p class="cart-buttons">
+							<a id="button_order_cart" class="btn btn-default button button-small" href="http://www.souvenirsofparis.com/~souvenirfm/Order" title="Check out" rel="nofollow">
+								<span>
+									Check out<i class="icon-chevron-right right"></i>
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Close window"></span>
+				<h2>
+					<i class="icon-ok"></i>Product successfully added to your shopping cart
+				</h2>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Quantity</strong>
+						<span id="layer_cart_product_quantity"></span>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+				<h2>
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt_s  unvisible">
+						There are <span class="ajax_cart_quantity">0</span> items in your cart.
+					</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt ">
+						There is 1 item in your cart.
+					</span>
+				</h2>
+	
+				<div class="layer_cart_row">
+					<strong class="dark">
+						Total products
+													(tax excl.)
+											</strong>
+					<span class="ajax_block_products_total">
+											</span>
+				</div>
+	
+								<div class="layer_cart_row">
+					<strong class="dark">
+						Total shipping&nbsp;(tax excl.)
+					</strong>
+					<span class="ajax_cart_shipping_cost">
+													$13.00
+											</span>
+				</div>
+								<div class="layer_cart_row">	
+					<strong class="dark">
+						Total
+													(tax excl.)
+											</strong>
+					<span class="ajax_block_cart_total">
+											</span>
+				</div>
+				<div class="button-container">	
+					<span class="continue btn btn-default button exclusive-medium" title="Continue shopping">
+						<span>
+							<i class="icon-chevron-left left"></i>Continue shopping
+						</span>
+					</span>
+					<a class="btn btn-default button button-medium"	href="http://www.souvenirsofparis.com/~souvenirfm/Order" title="Proceed to checkout" rel="nofollow">
+						<span>
+							Proceed to checkout<i class="icon-chevron-right right"></i>
+						</span>
+					</a>	
+				</div>
+			</div>
+		</div>
+		<div class="crossseling"></div>
+	</div> <!-- #layer_cart -->
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->	<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+		<div class="cat-title">Categories</div>
+		<ul class="sf-menu clearfix menu-content">
+			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/272-paris-monuments" title="Paris Monuments">Paris Monuments</a><ul><li><a href="http://www.souvenirsofparis.com/~souvenirfm/260-eiffel-tower" title="Eiffel Tower">Eiffel Tower</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/269-three-monuments" title="Three Monuments">Three Monuments</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/261-arch-of-triumph" title="Arch of Triumph">Arch of Triumph</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/268-notre-dame-de-paris" title="Notre Dame de Paris">Notre Dame de Paris</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/267-sacre-coeur" title="Sacré Coeur">Sacré Coeur</a></li></ul></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/290-home-kitchen-french-souvenirs" title="Home & Kitchen">Home & Kitchen</a><ul><li><a href="http://www.souvenirsofparis.com/~souvenirfm/276-coasters" title="Coasters">Coasters</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/292-dish-and-tea-towel" title="Dish and Tea Towel">Dish and Tea Towel</a><ul><li><a href="http://www.souvenirsofparis.com/~souvenirfm/311-french-wines" title="French Wines">French Wines</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/312-paris-kitchen-towels" title="Paris Kitchen towels">Paris Kitchen towels</a></li></ul></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/313-mug-shot-glass" title="Mug & Shot glass">Mug & Shot glass</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/302-oven-glove-and-potholder" title="Oven Glove and Potholder">Oven Glove and Potholder</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/294-aprons-" title="Aprons                                                  ">Aprons                                                  </a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/296-placemats" title="Placemats">Placemats</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/289-pillows" title="PILLOWS">PILLOWS</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/297-wall-decoration" title="Wall Decoration">Wall Decoration</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/288-photo-frame" title="Photo Frame">Photo Frame</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/275-magnets" title="Magnets">Magnets</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/287-enamel-signs" title="Enamel Signs">Enamel Signs</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/301-ashtray" title="Ashtray">Ashtray</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/318-trays" title="Trays">Trays</a></li></ul></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/299-fashion-accessories" title="Fashion & Accessories">Fashion & Accessories</a><ul><li><a href="http://www.souvenirsofparis.com/~souvenirfm/279-t-shirts" title="T-shirts">T-shirts</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/285-sweat-shirt" title="Sweat Shirt">Sweat Shirt</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/303-baby-bib" title="Baby Bib">Baby Bib</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/280-scarfs" title="Scarfs">Scarfs</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/281-french-beret" title="French Beret">French Beret</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/283-baseball-caps" title="Baseball Caps">Baseball Caps</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/284-boxer-shorts" title="Boxer Shorts">Boxer Shorts</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/286-bags-and-purses" title="Bags and Purses">Bags and Purses</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/305-ines-de-la-fressange" title="Inès de la Fressange®">Inès de la Fressange®</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/278-jewelry" title="Jewelry">Jewelry</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/306-mirror" title="Mirror">Mirror</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/307-badge" title="Badge">Badge</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/309-pillbox" title="PillBox">PillBox</a></li></ul></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/310-postcards-posters" title="Postcards & Posters">Postcards & Posters</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/316-business-material" title="Business material">Business material</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/315-designer-tissues" title="Designer Tissues">Designer Tissues</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/274-paris-souvenirs-snowglobes" title="Snowglobes">Snowglobes</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/275-magnets" title="Magnets">Magnets</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/273-key-chains-french-souvenirs" title="Key chains">Key chains</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/300-games" title="Games">Games</a><ul><li><a href="http://www.souvenirsofparis.com/~souvenirfm/293-playing-cards" title="Playing Cards">Playing Cards</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/295-jigsaw-puzzles" title="Jigsaw Puzzles">Jigsaw Puzzles</a></li><li><a href="http://www.souvenirsofparis.com/~souvenirfm/304-chess-game" title="Chess Game">Chess Game</a></li></ul></li>
+					</ul>
+	</div>
+	<!--/ Menu -->
+							</div>
+						</div>
+					</div>
+				</header>
+			</div>
+			<div class="columns-container">
+				<div id="columns" class="container">
+										<div class="row">
+						<div id="top_column" class="center_column col-xs-12 col-sm-12"><div id="htmlcontent_top">
+	<ul class="htmlcontent-home clearfix row">
+									<li class="htmlcontent-item-1 col-xs-4">
+																					<img src="http://www.souvenirsofparis.com/~souvenirfm/modules/themeconfigurator/img/1b3031f194360b8e31412379e8558ef286620589_free-shipping.jpg" class="item-img " title="free shipping" alt="free shipping" width="190" height="60"/>
+																											</li>
+			</ul>
+</div>
+    <!-- Module HomeSlider -->
+            <div id="homepage-slider">
+            <ul id="homeslider">
+                                                            <li class="homeslider-container">
+                            <a href="http://www.souvenirsofparis.com/~souvenirfm/" title="Lockers">
+                                <img src="http://www.souvenirsofparis.com/~souvenirfm/modules/homeslider/images/53795a8c4aaa2993bd4ebfc5d6076cadcb87c4ea_vignette made in france 16-9.jpg" width="390" height="163" alt="Lockers" />
+                            </a>
+                                                    </li>
+                                                </ul>
+        </div>
+        <!-- /Module HomeSlider -->
+</div>
+					</div>
+					<div class="row">
+												<div id="center_column" class="center_column col-xs-12 col-sm-12">
+	            <ul id="home-page-tabs" class="nav nav-tabs clearfix">
+			<li class="active"><a data-toggle="tab" href="#homefeatured" class="homefeatured">Popular</a></li><li class="active"><a data-toggle="tab" href="#blockbestsellers" class="blockbestsellers">Best Sellers</a></li>
+		</ul>
+		<div class="tab-content">		
+									
+		
+	
+	<!-- Products list -->
+	<ul id="homefeatured" class="product_list grid row homefeatured tab-pane active">
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/339-old-silver-eiffel-tower-51-13-cm-made-in-france.html" title="Old Silver Eiffel Tower 5.1&quot; (13 cm) - Made in France" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/726-home_default/old-silver-eiffel-tower-51-13-cm-made-in-france.jpg" alt="Old Silver Eiffel Tower 5.1&quot; (13 cm) - Made in France" title="Old Silver Eiffel Tower 5.1&quot; (13 cm) - Made in France"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/339-old-silver-eiffel-tower-51-13-cm-made-in-france.html" rel="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/339-old-silver-eiffel-tower-51-13-cm-made-in-france.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 11.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/339-old-silver-eiffel-tower-51-13-cm-made-in-france.html" title="Old Silver Eiffel Tower 5.1&quot; (13 cm) - Made in France" itemprop="url" >
+							Old Silver Eiffel Tower 5.1&quot; (13 cm) -...
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Miniature of the Eiffel Tower in old Silver.
+Size 4 - 5.1.
+Made in France.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 11.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=339&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="339">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/339-old-silver-eiffel-tower-51-13-cm-made-in-france.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" title="Key ring Eiffel Tower Blue/White/Red" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/959-home_default/key-ring-eiffel-tower-blue-white-red-paris-souvenir.jpg" alt="Key ring Eiffel Tower Blue/White/Red" title="Key ring Eiffel Tower Blue/White/Red"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" rel="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 3.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" title="Key ring Eiffel Tower Blue/White/Red" itemprop="url" >
+							Key ring Eiffel Tower Blue/White/Red
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Key ring Eiffel Tower Blue/White/Red.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 3.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=394&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="394">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/338-old-silver-eiffel-tower-39-10cm-made-in-france.html" title="Old Silver Eiffel Tower 3.9&quot; (10cm) - Made in France" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/721-home_default/old-silver-eiffel-tower-39-10cm-made-in-france.jpg" alt="Old Silver Eiffel Tower 3.9&quot; (10cm) - Made in France" title="Old Silver Eiffel Tower 3.9&quot; (10cm) - Made in France"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/338-old-silver-eiffel-tower-39-10cm-made-in-france.html" rel="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/338-old-silver-eiffel-tower-39-10cm-made-in-france.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 9.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/338-old-silver-eiffel-tower-39-10cm-made-in-france.html" title="Old Silver Eiffel Tower 3.9&quot; (10cm) - Made in France" itemprop="url" >
+							Old Silver Eiffel Tower 3.9&quot; (10cm) - Made...
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Old Silver Eiffel Tower 3.9" (10cm) - Made in France
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 9.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=338&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="338">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/338-old-silver-eiffel-tower-39-10cm-made-in-france.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/jewelry/121-sterling-silver-eiffel-tower-pendant.html" title="Sterling Silver Eiffel Tower Pendant" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/208-home_default/sterling-silver-eiffel-tower-pendant.jpg" alt="Sterling Silver Eiffel Tower Pendant - No chain" title="Sterling Silver Eiffel Tower Pendant - No chain"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/jewelry/121-sterling-silver-eiffel-tower-pendant.html" rel="http://www.souvenirsofparis.com/~souvenirfm/jewelry/121-sterling-silver-eiffel-tower-pendant.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 32.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/jewelry/121-sterling-silver-eiffel-tower-pendant.html" title="Sterling Silver Eiffel Tower Pendant" itemprop="url" >
+							Sterling Silver Eiffel Tower Pendant
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Sterling Silver Eiffel Tower Pendant - No chain
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 32.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=121&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="121">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/jewelry/121-sterling-silver-eiffel-tower-pendant.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line last-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/438-eiffel-tower-stars-key-ring-3700822900058.html" title="Eiffel tower Stars Key ring" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/1049-home_default/eiffel-tower-stars-key-ring.jpg" alt="Eiffel tower Stars Key ring" title="Eiffel tower Stars Key ring"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/438-eiffel-tower-stars-key-ring-3700822900058.html" rel="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/438-eiffel-tower-stars-key-ring-3700822900058.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 5.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/438-eiffel-tower-stars-key-ring-3700822900058.html" title="Eiffel tower Stars Key ring" itemprop="url" >
+							Eiffel tower Stars Key ring
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Eiffel tower Stars Key ring
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 5.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Add to cart</span>
+								</span>
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/438-eiffel-tower-stars-key-ring-3700822900058.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-dif">
+										<link itemprop="availability" href="http://schema.org/LimitedAvailability" />Product available with different options
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/342-old-silver-eiffel-tower-15-38-cm-made-in-france.html" title="Old Silver Eiffel Tower 15&quot; (38 cm) - Made in France" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/922-home_default/old-silver-eiffel-tower-15-38-cm-made-in-france.jpg" alt="Old Silver Eiffel Tower 15&quot; (38 cm) - Made in France" title="Old Silver Eiffel Tower 15&quot; (38 cm) - Made in France"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/342-old-silver-eiffel-tower-15-38-cm-made-in-france.html" rel="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/342-old-silver-eiffel-tower-15-38-cm-made-in-france.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 60.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/342-old-silver-eiffel-tower-15-38-cm-made-in-france.html" title="Old Silver Eiffel Tower 15&quot; (38 cm) - Made in France" itemprop="url" >
+							Old Silver Eiffel Tower 15&quot; (38 cm) - Made...
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Miniature of the Eiffel Tower in old Silver.
+Size 7 - 15" (38 cm).
+Made in France.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 60.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=342&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="342">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/342-old-silver-eiffel-tower-15-38-cm-made-in-france.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/coasters/281-bordeaux-vineyard-coasters-french-souvenirs-3210808552015.html" title="Bordeaux vineyard Coasters" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/605-home_default/bordeaux-vineyard-coasters-french-souvenirs.jpg" alt="Bordeaux vineyard Coasters" title="Bordeaux vineyard Coasters"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/coasters/281-bordeaux-vineyard-coasters-french-souvenirs-3210808552015.html" rel="http://www.souvenirsofparis.com/~souvenirfm/coasters/281-bordeaux-vineyard-coasters-french-souvenirs-3210808552015.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 16.50									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/coasters/281-bordeaux-vineyard-coasters-french-souvenirs-3210808552015.html" title="Bordeaux vineyard Coasters" itemprop="url" >
+							Bordeaux vineyard Coasters
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Coasters for your table with 6 vineyards from the Bordeaux region.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 16.50							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=281&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="281">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/coasters/281-bordeaux-vineyard-coasters-french-souvenirs-3210808552015.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/337-old-silver-eiffel-tower-28-7-cm-made-in-france.html" title="Old Silver Eiffel Tower 2.8&quot; (7 cm) - Made in France" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/850-home_default/old-silver-eiffel-tower-28-7-cm-made-in-france.jpg" alt="Old Silver Eiffel Tower 2.8&quot; (7 cm) - Made in France" title="Old Silver Eiffel Tower 2.8&quot; (7 cm) - Made in France"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/337-old-silver-eiffel-tower-28-7-cm-made-in-france.html" rel="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/337-old-silver-eiffel-tower-28-7-cm-made-in-france.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 5.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/337-old-silver-eiffel-tower-28-7-cm-made-in-france.html" title="Old Silver Eiffel Tower 2.8&quot; (7 cm) - Made in France" itemprop="url" >
+							Old Silver Eiffel Tower 2.8&quot; (7 cm) - Made...
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Miniature of the Eiffel Tower in old Silver.
+Size 2 - 2.8" (7 cm).
+Made in France.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 5.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=337&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="337">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/eiffel-tower/337-old-silver-eiffel-tower-28-7-cm-made-in-france.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+		</ul>
+
+
+
+
+
+	
+									
+		
+	
+	<!-- Products list -->
+	<ul id="blockbestsellers" class="product_list grid row blockbestsellers tab-pane active">
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line last-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/395-eiffel-tower-key-ring-.html" title="Eiffel Tower Key ring " itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/960-home_default/eiffel-tower-key-ring-.jpg" alt="Eiffel Tower Key ring " title="Eiffel Tower Key ring "  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/395-eiffel-tower-key-ring-.html" rel="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/395-eiffel-tower-key-ring-.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 2.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/395-eiffel-tower-key-ring-.html" title="Eiffel Tower Key ring " itemprop="url" >
+							Eiffel Tower Key ring
+						</a>
+					</h5>
+					 
+	<div class="comments_note" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">	
+		<div class="star_content clearfix">
+												<div class="star star_on"></div>
+																<div class="star star_on"></div>
+																<div class="star star_on"></div>
+																<div class="star"></div>
+																<div class="star"></div>
+										<meta itemprop="worstRating" content = "0" />
+			<meta itemprop="ratingValue" content = "2" />
+			<meta itemprop="bestRating" content = "5" />
+		</div>
+		<span class="nb-comments">1 Review(s)</span>
+	</div>
+
+					<p class="product-desc" itemprop="description">
+						Eiffel Tower Key ring.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 2.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=395&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="395">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/395-eiffel-tower-key-ring-.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" title="Key ring Eiffel Tower Blue/White/Red" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/959-home_default/key-ring-eiffel-tower-blue-white-red-paris-souvenir.jpg" alt="Key ring Eiffel Tower Blue/White/Red" title="Key ring Eiffel Tower Blue/White/Red"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" rel="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 3.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" title="Key ring Eiffel Tower Blue/White/Red" itemprop="url" >
+							Key ring Eiffel Tower Blue/White/Red
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						Key ring Eiffel Tower Blue/White/Red.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 3.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=394&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="394">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/394-key-ring-eiffel-tower-blue-white-red-paris-souvenir.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/53-2cveiffel-tower-key-chain.html" title="2CV/Eiffel Tower Key Chain" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/117-home_default/2cveiffel-tower-key-chain.jpg" alt="2CV/Eiffel Tower Key Chain" title="2CV/Eiffel Tower Key Chain"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/53-2cveiffel-tower-key-chain.html" rel="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/53-2cveiffel-tower-key-chain.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 5.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/53-2cveiffel-tower-key-chain.html" title="2CV/Eiffel Tower Key Chain" itemprop="url" >
+							2CV/Eiffel Tower Key Chain
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						This key chain features the Eiffel Tower with the Citro&euml;n two Chevaux.
+Made in France.
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 5.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/Cart?add=1&amp;id_product=53&amp;token=fcf3de21dbff8c86cfee5a43193e667a" rel="nofollow" title="Add to cart" data-id-product="53">
+										<span>Add to cart</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/key-chains-french-souvenirs/53-2cveiffel-tower-key-chain.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="available-now">
+										<link itemprop="availability" href="http://schema.org/InStock" />In Stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-line first-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link"	href="http://www.souvenirsofparis.com/~souvenirfm/t-shirts/381-t-shirt-strass-eiffel-tower-strass-french-souvenirs.html" title="T-shirt Strass &quot;Eiffel Tower strass&quot;" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://www.souvenirsofparis.com/~souvenirfm/918-home_default/t-shirt-strass-eiffel-tower-strass-french-souvenirs.jpg" alt="T-shirt Strass &quot;Eiffel Tower strass&quot;" title="T-shirt Strass &quot;Eiffel Tower strass&quot;"  width="250" height="250" itemprop="image" />
+						</a>
+													<a class="quick-view" href="http://www.souvenirsofparis.com/~souvenirfm/t-shirts/381-t-shirt-strass-eiffel-tower-strass-french-souvenirs.html" rel="http://www.souvenirsofparis.com/~souvenirfm/t-shirts/381-t-shirt-strass-eiffel-tower-strass-french-souvenirs.html">
+								<span>Quick view</span>
+							</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										$ 20.00									</span>
+									<meta itemprop="priceCurrency" content="1" />
+																								</div>
+																							</div>
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://www.souvenirsofparis.com/~souvenirfm/t-shirts/381-t-shirt-strass-eiffel-tower-strass-french-souvenirs.html" title="T-shirt Strass &quot;Eiffel Tower strass&quot;" itemprop="url" >
+							T-shirt Strass &quot;Eiffel Tower strass&quot;
+						</a>
+					</h5>
+					 
+
+					<p class="product-desc" itemprop="description">
+						T-shirt Strass "Eiffel Tower strass".
+					</p>
+										<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="content_price">
+													<span itemprop="price" class="price product-price">
+								$ 20.00							</span>
+							<meta itemprop="priceCurrency" content="1" />
+																		</div>
+										<div class="button-container">
+																					<span class="button ajax_add_to_cart_button btn btn-default disabled">
+									<span>Add to cart</span>
+								</span>
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://www.souvenirsofparis.com/~souvenirfm/t-shirts/381-t-shirt-strass-eiffel-tower-strass-french-souvenirs.html" title="View">
+							<span>More</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																														</div>
+																		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+																	<span class="out-of-stock">
+										<link itemprop="availability" href="http://schema.org/OutOfStock" />Out of stock
+									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+		</ul>
+
+
+
+
+
+</div>
+					</div><!-- #center_column -->
+										</div><!-- .row -->
+				</div><!-- #columns -->
+			</div><!-- .columns-container -->
+			<!-- Footer -->
+			<div class="footer-container">
+				<footer id="footer"  class="container">
+					<div class="row"><!-- MODULE Block reinsurance -->
+<div id="reinsurance_block" class="clearfix">
+	<ul class="width3">	
+					<li><img src="http://www.souvenirsofparis.com/~souvenirfm/modules/blockreinsurance/img/reinsurance-1-1.jpg" alt="Money back guarantee." /> <span>Money back guarantee.</span></li>                        
+					<li><img src="http://www.souvenirsofparis.com/~souvenirfm/modules/blockreinsurance/img/reinsurance-4-1.jpg" alt=" Free Shipping above 100$" /> <span> Free Shipping above 100$</span></li>                        
+					<li><img src="http://www.souvenirsofparis.com/~souvenirfm/modules/blockreinsurance/img/reinsurance-5-1.jpg" alt="100% secure payment processing." /> <span>100% secure payment processing.</span></li>                        
+			</ul>
+</div>
+<!-- /MODULE Block reinsurance -->
+	<!-- MODULE Block footer -->
+	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
+		<h4>Information</h4>
+		<ul class="toggle-footer">
+							<li class="first_item">
+					<a href="http://www.souvenirsofparis.com/~souvenirfm/promotions" title="Specials">
+						Specials
+					</a>
+				</li>
+						<li class="item">
+				<a href="http://www.souvenirsofparis.com/~souvenirfm/New-products" title="New products">
+					New products
+				</a>
+			</li>
+							<li class="item">
+					<a href="http://www.souvenirsofparis.com/~souvenirfm/Best-Sales" title="Best sellers">
+						Best sellers
+					</a>
+				</li>
+									<li class="item">
+				<a href="http://www.souvenirsofparis.com/~souvenirfm/Contact-us" title="Contact us">
+					Contact us
+				</a>
+			</li>
+												<li class="item">
+						<a href="http://www.souvenirsofparis.com/~souvenirfm/content/1-shipping" title="International Shipping">
+							International Shipping
+						</a>
+					</li>
+																<li class="item">
+						<a href="http://www.souvenirsofparis.com/~souvenirfm/content/2-Legal_Information" title="Legal Information">
+							Legal Information
+						</a>
+					</li>
+																<li class="item">
+						<a href="http://www.souvenirsofparis.com/~souvenirfm/content/5-paiement-securise" title="Secure Payment">
+							Secure Payment
+						</a>
+					</li>
+										<li>
+				<a href="http://www.souvenirsofparis.com/~souvenirfm/Sitemap" title="Sitemap">
+					Sitemap
+				</a>
+			</li>
+		</ul>
+		
+	</section>
+		<!-- /MODULE Block footer -->
+<!-- MODULE Block contact infos -->
+<section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
+	<div>
+        <h4>Store Information</h4>
+        <ul class="toggle-footer">
+                        	<li>
+            		<i class="icon-map-marker"></i>Souvenirs et Compagnie, Moulin de la Chausée
+Route de Mantes
+78580 Maule            	</li>
+                                    	<li>
+            		<i class="icon-phone"></i>Call us now toll free: 
+            		<span>It&#039;s not a free number: +33.1.45.78.14.58</span>
+            	</li>
+                                    	<li>
+            		<i class="icon-envelope-alt"></i>Email: 
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f@%73%6f%75%76%65%6e%69%72%73%6f%66%70%61%72%69%73.%63%6f%6d" >&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x73;&#x6f;&#x75;&#x76;&#x65;&#x6e;&#x69;&#x72;&#x73;&#x6f;&#x66;&#x70;&#x61;&#x72;&#x69;&#x73;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+            	</li>
+                    </ul>
+    </div>
+</section>
+<!-- /MODULE Block contact infos -->
+<!-- Block myaccount module -->
+<section class="footer-block col-xs-12 col-sm-4">
+	<h4><a href="http://www.souvenirsofparis.com/~souvenirfm/My-account" title="Manage my customer account" rel="nofollow">My account</a></h4>
+	<div class="block_content toggle-footer">
+		<ul class="bullet">
+			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/Order-History" title="My orders" rel="nofollow">My orders</a></li>
+			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/Order-Details" title="My merchandise returns" rel="nofollow">My merchandise returns</a></li>			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/havings" title="My credit slips" rel="nofollow">My credit slips</a></li>
+			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/addresses" title="My addresses" rel="nofollow">My addresses</a></li>
+			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/identity" title="Manage my personal information" rel="nofollow">My personal info</a></li>
+			<li><a href="http://www.souvenirsofparis.com/~souvenirfm/Vouchers" title="My vouchers" rel="nofollow">My vouchers</a></li>			
+            		</ul>
+	</div>
+</section>
+<!-- /Block myaccount module -->
+<!-- Block Newsletter module-->
+<div id="newsletter_block_left" class="block">
+	<h4>Newsletter</h4>
+	<div class="block_content">
+		<form action="http://www.souvenirsofparis.com/~souvenirfm/" method="post">
+			<div class="form-group" >
+				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="Enter your e-mail" />
+                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+                    <span>Ok</span>
+                </button>
+				<input type="hidden" name="action" value="0" />
+			</div>
+		</form>
+	</div>
+</div>
+<!-- /Block Newsletter module-->
+<section id="social_block">
+	<ul>
+					<li class="facebook">
+				<a target="_blank" href="https://www.facebook.com/pages/souvenirsofpariscom/1530266900549913">
+					<span>Facebook</span>
+				</a>
+			</li>
+							<li class="twitter">
+				<a target="_blank" href="https://twitter.com/souvenirofparis">
+					<span>Twitter</span>
+				</a>
+			</li>
+				                        	</ul>
+    <h4>Follow us</h4>
+</section>
+<div class="clearfix"></div>
+
+				</div>
+				</footer>
+			</div><!-- #footer -->
+		</div><!-- #page -->
+<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nNext = 'Next';
+var FancyboxI18nPrev = 'Previous';
+var FancyboxboxI18nClose = 'Close';
+var added_to_wishlist = 'Added to your wishlist.';
+var ajaxsearch = true;
+var baseDir = 'http://www.souvenirsofparis.com/~souvenirfm/';
+var baseUri = 'http://www.souvenirsofparis.com/~souvenirfm/';
+var blocksearch_type = 'top';
+var contentOnly = false;
+var customizationIdMessage = 'Customization #';
+var delete_txt = 'Delete';
+var freeProductTranslation = 'Free!';
+var freeShippingTranslation = '$13.00';
+var generated_date = 1509812128;
+var id_lang = 3;
+var img_dir = 'http://www.souvenirsofparis.com/~souvenirfm/themes/default-bootstrap/img/';
+var instantsearch = true;
+var isGuest = 0;
+var isLogged = 0;
+var loggin_required = 'You must be logged in to manage your wishlist.';
+var page_name = 'index';
+var placeholder_blocknewsletter = 'Enter your e-mail';
+var priceDisplayMethod = 1;
+var priceDisplayPrecision = 2;
+var quickView = true;
+var removingLinkText = 'remove this product from my cart';
+var roundMode = 2;
+var search_url = 'http://www.souvenirsofparis.com/~souvenirfm/Research';
+var static_token = 'fcf3de21dbff8c86cfee5a43193e667a';
+var token = '48f9040a2c0fed59dc14a6f6c53df024';
+var usingSecureMode = false;
+var wishlistProductsIds = false;
+</script>
+<script type="text/javascript" src="/~souvenirfm/js/jquery/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/~souvenirfm/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/~souvenirfm/js/jquery/plugins/jquery.easing.js"></script>
+<script type="text/javascript" src="/~souvenirfm/js/tools.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/global.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/autoload/10-bootstrap.min.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"></script>
+<script type="text/javascript" src="/~souvenirfm/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/products-comparison.js"></script>
+<script type="text/javascript" src="/~souvenirfm/modules/blockfacebook/blockfacebook.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"></script>
+<script type="text/javascript" src="/~souvenirfm/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js"></script>
+<script type="text/javascript" src="/~souvenirfm/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/tools/treeManagement.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+<script type="text/javascript" src="/~souvenirfm/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+<script type="text/javascript" src="/~souvenirfm/modules/ganalytics/views/js/GoogleAnalyticActionLib.js"></script>
+<script type="text/javascript">
+var homeslider_loop=0;
+     var homeslider_width=800;
+     var homeslider_speed=3000;
+     var homeslider_pause=6000;
+(window.gaDevIds=window.gaDevIds||[]).push('d6YPbH');
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+				ga('create', 'UA-17151408-1', 'auto');
+				ga('require', 'ec');
+/*
+* 2007-2017 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2017 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*/
+
+
+
+function updateFormDatas()
+{
+	var nb = $('#quantity_wanted').val();
+	var id = $('#idCombination').val();
+
+	$('.paypal_payment_form input[name=quantity]').val(nb);
+	$('.paypal_payment_form input[name=id_p_attr]').val(id);
+}
+	
+$(document).ready( function() {
+
+	if($('#in_context_checkout_enabled').val() != 1)
+	{
+		$('#payment_paypal_express_checkout').click(function() {
+			$('#paypal_payment_form_cart').submit();
+			return false;
+		});
+	}
+
+
+	var jquery_version = $.fn.jquery.split('.');
+	if(jquery_version[0]>=1 && jquery_version[1] >= 7)
+	{
+		$('body').on('submit',".paypal_payment_form", function () {
+			updateFormDatas();
+		});
+	}
+	else {
+		$('.paypal_payment_form').live('submit', function () {
+			updateFormDatas();
+		});
+	}
+
+	function displayExpressCheckoutShortcut() {
+		var id_product = $('input[name="id_product"]').val();
+		var id_product_attribute = $('input[name="id_product_attribute"]').val();
+		$.ajax({
+			type: "GET",
+			url: baseDir+'/modules/paypal/express_checkout/ajax.php',
+			data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute },
+			cache: false,
+			success: function(result) {
+				if (result == '1') {
+					$('#container_express_checkout').slideDown();
+				} else {
+					$('#container_express_checkout').slideUp();
+				}
+				return true;
+			}
+		});
+	}
+
+	$('select[name^="group_"]').change(function () {
+		setTimeout(function(){displayExpressCheckoutShortcut()}, 500);
+	});
+
+	$('.color_pick').click(function () {
+		setTimeout(function(){displayExpressCheckoutShortcut()}, 500);
+	});
+
+	if($('body#product').length > 0)
+		setTimeout(function(){displayExpressCheckoutShortcut()}, 500);
+	
+	
+			
+
+	var modulePath = 'modules/paypal';
+	var subFolder = '/integral_evolution';
+	
+			var baseDirPP = baseDir;
+		
+	var fullPath = baseDirPP + modulePath + subFolder;
+	var confirmTimer = false;
+		
+	if ($('form[target="hss_iframe"]').length == 0) {
+		if ($('select[name^="group_"]').length > 0)
+			displayExpressCheckoutShortcut();
+		return false;
+	} else {
+		checkOrder();
+	}
+
+	function checkOrder() {
+		if(confirmTimer == false)
+			confirmTimer = setInterval(getOrdersCount, 1000);
+	}
+
+	});
+ga('send', 'pageview');
+</script>
+	</body>
+</html>

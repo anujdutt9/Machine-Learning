@@ -1,0 +1,3306 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+			
+				 
+	
+	
+	<title>Home | PhotographyBLOG</title>
+
+
+
+	
+				
+	<meta name="description" content="PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based." />
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<link rel="alternate" type="application/rss+xml" title="PhotographyBLOG" href="http://feeds2.feedburner.com/photographyblog">
+	
+
+	<!-- CSS -->
+
+	<!--[if !IE]><!-->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+	<!--<![endif]-->
+
+	<!--[if gte IE 9]>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+	 <![endif]-->
+	
+	<!--[if lte IE 8]>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>		
+	 <![endif]-->
+
+	
+	<link rel="stylesheet" href="/_css/pblog.css?00006" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" href="/_css/ie.css" />
+	<![endif]-->
+	
+	<link rel="stylesheet" href="/_css/pblog-rwd.css?00001" />
+	
+
+	<!-- JS -->
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/_js/jquery-1.8.2.min.js"><\/script>')</script>
+	
+
+	<!-- Affix + geo JS -->
+	    <script src="/_js/photoblog.js"></script>
+
+	<!-- Fancybox for news articles -->
+	<link rel="stylesheet" href="/_js/fancybox/jquery.fancybox.css" type="text/css" media="screen">
+	<script src="/_js/fancybox/jquery.fancybox-1.2.0-ready.js"></script>
+
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function() {
+		    $("#mini-gallery a").fancybox();
+		});
+	</script>         
+	
+		
+	                    
+
+
+	<!-- Comment reverse order toggle -->
+	<script src="/_js/jquery.reverseorder.packed.js"></script>
+
+
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function() {
+				$('a#comment-order-toggle .old').hide();
+
+				$('a#comment-order-toggle').click(function(){
+					$('#comment-list .comment').reverseOrder();
+					$('a#comment-order-toggle .old').toggle();
+					$('a#comment-order-toggle .new').toggle();
+			      return false;
+				});
+			});
+		</script>
+
+
+
+
+	<!-- Google Analytics -->
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-295158-1']);
+
+ 	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
+
+
+	<script src="/_js/badb.js"></script>
+	<script>
+	// Function called if AdBlock is NOT detected
+	function adBlockNotDetected() {
+	}
+	// Function called if AdBlock is detected
+	function adBlockDetected() {
+	    _gaq.push(['_trackEvent', 'AdBlock', 'AdBlock enabled', '',,true])
+	    // CV set after PV sent due to adblockdetect timer, therefore not capturing 1st page load, and getting bouce etc wrong. 
+		// _gaq.push(['_setCustomVar',3,'AdBlock','AdBlock enabled',1]);
+	}
+
+	// Recommended audit because AdBlock lock the file 'blockadblock.js' 
+	// If the file is not called, the variable does not exist 'blockAdBlock'
+	// This means that AdBlock is present
+	if(typeof blockAdBlock === 'undefined') {
+	    adBlockDetected();
+	} else {
+	    blockAdBlock.onDetected(adBlockDetected);
+	    blockAdBlock.onNotDetected(adBlockNotDetected);
+	    // and|or
+	    blockAdBlock.on(true, adBlockDetected);
+	    blockAdBlock.on(false, adBlockNotDetected);
+	    // and|or
+	    blockAdBlock.on(true, adBlockDetected).onNotDetected(adBlockNotDetected);
+	}
+
+	</script>
+
+	<!-- Google Analytics: Send pageview -->
+
+	<script type="text/javascript">
+
+	  			_gaq.push(['_setCustomVar',5,'EU Visitor',is_eu,1]);
+
+	  		  	
+                	pVurl = location.pathname;
+        	pVurl = pVurl.replace(/\/?$/, '/');
+            _gaq.push(['_trackPageview',pVurl]);
+        
+	</script>
+
+
+	
+	<script type="text/javascript" id="nsgpt" data-channel="general" src="//cdn.nsstatic.net/ns/photographyblog.com.js" async="true"></script>
+
+		
+	<script type='text/javascript'>
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  (function() {
+	    var gads = document.createElement('script');
+	    gads.async = true;
+	    gads.type = 'text/javascript';
+	    var useSSL = 'https:' == document.location.protocol;
+	    gads.src = (useSSL ? 'https:' : 'http:') +
+	      '//www.googletagservices.com/tag/js/gpt.js';
+	    var node = document.getElementsByTagName('script')[0];
+	    node.parentNode.insertBefore(gads, node);
+	  })();
+	</script>
+
+	<script type='text/javascript'>
+	  googletag.cmd.push(function() {
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x1_Wallpaper', [1, 1], 'div-gpt-ad-1463504159754-0').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x2_Rich_media', [1, 2], 'div-gpt-ad-1463504159754-1').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x3_Mobile', [1, 3], 'div-gpt-ad-1463504159754-2').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x4_Content_break', [1, 4], 'div-gpt-ad-1463504159754-3').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Applaud_leaderboard_728x90', [728, 90], 'div-gpt-ad-1470749537472-0').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Applaud_MPU_300x250', [300, 250], 'div-gpt-ad-1470749537472-1').addService(googletag.pubads());
+
+		// Applaud 2016-11
+		
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x3_Mobile2', [1, 3], 'div-gpt-ad-1478534119227-0').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x4_Content_break2', [1, 4], 'div-gpt-ad-1478534119227-1').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x1_custom1', [1, 1], 'div-gpt-ad-1478534119227-2').addService(googletag.pubads());	    
+
+
+	    googletag.pubads().enableSingleRequest();
+	    googletag.enableServices();
+	  });
+
+	</script>
+
+	 
+		
+	<meta property="fb:app_id"
+	content="192515554102320" />
+	<meta property="og:url" content="http://www.photographyblog.com/" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Home | PhotographyBLOG" />
+	<meta property="og:description" content="PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based." />
+    	<meta property="og:image" content="" />
+    
+	    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@photographyblog">
+    <meta name="twitter:title" content="Home | PhotographyBLOG">
+    <meta name="twitter:description" content="PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based.">
+        <meta name="twitter:image" content="">    
+    
+
+
+
+	<!--Twitter share button script-->
+	<style type="text/css" media="screen">
+		a.twitter-share-button {display: none;}
+	</style>
+
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function() {
+			$('a.twitter-share-button').fadeIn('fast');	
+		  });
+	</script>
+
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+
+
+<script>
+	if (is_eu == "true")
+	{
+	// include cookieconsentscript
+	var head = document.getElementsByTagName('head')[0];
+	var script = document.createElement('script');
+	script.src = "/_js/cookieconsent/cookieconsent.js";
+	head.appendChild(script);
+
+	// set cookieconsent options
+    window.cookieconsent_options = {
+        // learnMore: 'More info',
+        theme: 'http://www.photographyblog.com/_js/cookieconsent/styles/light-bottom-pblog.css',
+        link: 'http://www.photographyblog.com/page/cookies_policy'
+    };
+	} else {}
+</script>
+
+
+<script type="text/javascript" async="async" crossorigin="anonymous" src="//adyoulike.omnitagjs.com"></script>
+
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/applaudmedia-network/loader.js');
+</script>
+ 
+</head>
+
+<body class="home-wide
+">
+
+<!-- FB Like button script -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- /end -->
+
+
+<div id="wrapper">	
+
+	<div id="header" role="banner">
+
+        <div id="header-wrap">
+        	
+		<div id="logo-wrap" class="clearfix">
+			
+			<h1 id="logo"><a href="/" data-ga-path="/click/nav/logo/"><img alt="Photography Blog logo" src="/images/logo-@2x.jpg" height="123" width="230" /></a></h1>
+			
+			<div class="nav-wrap">
+					
+
+			<div id="social">
+		<!-- Follow Photography Blog:  -->
+		
+				<a href="http://feeds2.feedburner.com/photographyblog" class="rss" data-ga-path="/click/nav/social/rss/"><span class="icon-feed"></span><!--  RSS --></a> 				
+
+				<a href="https://www.facebook.com/photoblog2014" class="facebook" data-ga-path="/click/nav/social/facebook/"><span class="icon-facebook"></span><!--  Facebook --></a> 
+
+				<a href="http://twitter.com/photographyblog" class="twitter" data-ga-path="/click/nav/social/twitter/"><span class="icon-twitter"></span><!--  Twitter --></a>
+
+
+				<a href="http://feedburner.google.com/fb/a/mailverify?uri=photographyblog&amp;loc=en_US" class="email" data-ga-path="/click/nav/social/newsbyemail/"><span class="icon-mail"></span><!--  News by Email --></a> 
+				
+				<div class="newsletter">
+
+				<a href="/page/about/#contact" class="contact" data-ga-path="/click/nav/social/contact/"><b>@</b> Contact</a>
+
+                    <!-- BEGIN: Constant Contact HTML for OptIn Tag  -->
+                    <form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" method="post">
+
+						<a class="newsletter-link" href="/page/newsletter/">Newsletter:</a> 
+						  <input type="text" name="ea" class="input" id="newsletter-input"
+							value="you@youremail.com"
+							onfocus="if (this.value == 'you@youremail.com') this.value = '';"  
+							onblur="if (this.value == '') this.value = 'you@youremail.com';"
+						  />
+                          <input type="hidden" name="m" value="1011263454013" />
+                          <input type="hidden" name="p" value="oi" />
+
+                          <input type="submit" class="submit" name="go" value="Subscribe" />
+
+                  </form>
+                    <!-- End: Constant Contact HTML for OptIn Tag -->
+				</div><!-- .newsletter -->
+
+
+		</div><!--#social-->
+
+
+			<!-- tab+desktop nav -->	
+	        <div id="nav" role="navigation">
+	        	<ul class="clearfix">
+
+				   <li><a class="camera-reviews" href="/reviews/"   data-ga-path="/click/nav/digital-camera-reviews-link/">Camera Reviews</a>
+					</li>
+
+					<li class="nav-best-cameras">
+						<a class="geo-world" href="/best_cameras/" data-ga-path="/click/nav/best-digital-cameras/us">Best Cameras</a>
+						<a class="geo-uk" href="/best_cameras/uk/" data-ga-path="/click/nav/best-digital-cameras/uk">Best Cameras</a>
+					</li>
+
+					<script>
+					if (country == "UK" || country == "GB")
+					{
+						$("li.nav-best-cameras .geo-world").hide();
+						$("li.nav-best-cameras .geo-uk").show();
+					}
+					</script>
+			
+				   <li class="drop-down"><a class="drop-link other-reviews" href="/reviews/" data-ga-path="/click/nav/other-reviews-link/">Lens Reviews &amp; More</a>
+						<ul class="drop-menu other-reviews-menu">        
+							<!-- <li><a href="/reviews/#film">Film Cameras</a></li> -->
+							<li><a href="/reviews/#lenses" data-ga-path="/click/nav/other-reviews-drop/lenses">Lenses</a></li>
+							<li><a href="/reviews/#printers" data-ga-path="/click/nav/other-reviews-drop/printers">Printers</a></li>
+							<li><a href="/reviews/#software" data-ga-path="/click/nav/other-reviews-drop/software">Software</a></li>
+							<li><a href="/reviews/#accessories" data-ga-path="/click/nav/other-reviews-drop/accessories">Accessories</a></li>
+							<li><a href="/reviews/#books" data-ga-path="/click/nav/other-reviews-drop/books">Books</a></li>
+							<li><a href="/reviews/#other" data-ga-path="/click/nav/other-reviews-drop/other">Other</a></li>
+						</ul>
+					</li>
+				   
+				   <li><a href="/news/" data-ga-path="/click/nav/news">News</a></li>
+				   <li class="last"><a href="/category/photography_techniques/" data-ga-path="/click/nav/techniques-link">How-To</a></li>
+
+					
+					<li class="nav-search" role="search">
+		
+						<form action="http://www.photographyblog.com/search/results">
+
+						<input type="text" name="q" id="keywords" class="search input"
+							value="Search"
+							onfocus="if (this.value == 'Search') this.value = '';"  
+							onblur="if (this.value == '') this.value = 'Search';"
+							maxlength="100" />
+
+						</form>
+
+					</li>				
+	        	</ul>  
+			</div><!-- #nav -->   
+
+			</div><!-- /.nav-wrap -->
+
+
+		</div><!-- #logo-wrap -->                 
+
+
+
+
+		<div id="nav" class="mobile" role="navigation"  style="display: none;">
+        	<ul class="clearfix">
+
+			   <li><a class="camera-reviews" href="/reviews/"   data-ga-path="/click/nav/digital-camera-reviews-link/">Camera<span> Review</span>s</a>
+				</li>
+
+				<li class="nav-best-cameras">
+					<a class="geo-world" href="/best_cameras/" data-ga-path="/click/nav/best-digital-cameras/us">Best<span> Cameras</span></a>
+					<a class="geo-uk" href="/best_cameras/uk/" data-ga-path="/click/nav/best-digital-cameras/uk">Best<span> Cameras</span></a>
+				</li>
+
+				<script>
+				if (country == "UK" || country == "GB")
+				{
+					$("li.nav-best-cameras .geo-world").hide();
+					$("li.nav-best-cameras .geo-uk").show();
+				}
+				</script>
+
+
+			   <li class="drop-down"><a class="drop-link other-reviews" href="#"><span>Lenses &amp; </span>More</a>
+					<ul id="drop-menu" class="drop-menu other-reviews-menu">        
+						<!-- <li><a href="/reviews/#film">Film Cameras</a></li> -->
+						<li><a href="/reviews/#lenses" data-ga-path="/click/nav/other-reviews-drop/lenses">Lenses</a></li>
+						<li><a href="/reviews/#printers" data-ga-path="/click/nav/other-reviews-drop/printers">Printers</a></li>
+						<li><a href="/reviews/#software" data-ga-path="/click/nav/other-reviews-drop/software">Software</a></li>
+						<li><a href="/reviews/#accessories" data-ga-path="/click/nav/other-reviews-drop/accessories">Accessories</a></li>
+						<li><a href="/reviews/#books" data-ga-path="/click/nav/other-reviews-drop/books">Books</a></li>
+						<li><a href="/reviews/#other" data-ga-path="/click/nav/other-reviews-drop/other">Other</a></li>
+					</ul>
+				</li>
+			   
+			<!-- Drop script -->
+			<script>
+			//Allow clicking instead of hover for dropdown menus
+			$(document).ready( function(){
+
+			    $('.mobile .drop-link.other-reviews').click( function(event){
+			        event.stopPropagation();
+			        $('.mobile #drop-menu').toggleClass('drop-menu-active');
+			    });
+
+			    $(document).click( function(){
+			        $('.mobile #drop-menu').toggleClass('drop-menu-active');
+			    });
+
+			});
+			</script>
+
+			   <li><a href="/news/" data-ga-path="/click/nav/news">News</a></li>
+			   <li><a href="/category/photography_techniques/" data-ga-path="/click/nav/techniques-link">How-To</a></li>
+
+				
+				<li class="last">
+					<a href="/search/">Search</a>
+
+				</li>				
+        	</ul>  
+		</div><!-- #mobile-nav -->   
+		
+
+
+		                     
+		
+        </div><!-- #header-wrap -->
+
+	</div><!-- #header -->
+
+
+	
+
+	<!-- // Start Billboard -->
+	<!-- PhotoBlog_2013_Billboard -->
+	
+	<div id = 'billboard_placeholder' style = 'width: 970px;  margin: auto;  text-align: center;min-width: 728px;padding-top: 10px;'>
+
+		<!-- 970 BILLBOARD ON TOP -->
+	<div data-ns="billboard" data-collapse="true"></div>
+
+
+	</div>
+	<!-- // End Billboard -->
+
+	
+	<div id="content-wrap" class="clearfix">
+
+		<div id="content" class="" role="main">
+
+<!-- // end header- // -->
+
+
+
+
+ 		
+
+
+	
+ 	
+																																																																																																																																																																																								
+	
+
+		 				
+	
+
+
+ 		
+ 
+		
+
+ 		
+ 
+		
+
+ 		
+ 
+		
+
+ 		
+ 
+		
+
+
+
+
+<div class="content-inner"> 
+	
+
+
+	
+
+		 
+		<div class="hp-section hp-section--latest-articles">
+		<h3 class="hp-section__header"><a href="/news/">Latest Articles</a></h3>
+		
+		<div class="row">
+			
+			<div class="hp-entry-wrap">				
+
+				<div class="row image-wrap">
+						
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/gopro_hero6_black_review"
+	data-ga-path="/click/home/latest-articles/latest-review"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/gopro_hero6_black_01.jpg" 
+		
+	width="250" 
+	height="167" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+							
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review"
+	data-ga-path="/click/home/latest-articles/lens-review"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_review.jpg" 
+		
+	width="250" 
+	height="188" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+				</div>
+		<!-- .row -->
+
+		 
+		<div class="row">
+
+						<div class="hp-entry">			
+
+			
+
+
+<small class="hp-entry__minihead mobile-only">Latest Camera Review</small>
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/gopro_hero6_black_review
+"
+	data-ga-path="/click/home/latest-articles/latest-review"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/gopro_hero6_black_01.jpg" 
+		
+	width="250" 
+	height="167" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/gopro_hero6_black_review
+"
+			data-ga-path="/click/home/latest-articles/latest-review"			>
+						<small class="hp-entry__minihead">Latest Camera Review</small>			GoPro HERO6 Black 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		31 Oct</small>
+								The GoPro HERO6 Black action camera features 4K video recording at 60fps, Full HD video at 240fps, a 12 megapixel sensor, the most advanced video stabilisation ever,  and a new “QuikStories” app. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/gopro_hero6_black_review
+"
+		data-ga-path="/click/home/latest-articles/latest-review"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/gopro_hero6_black_review/
+	
+	comments/#disqus_thread" data-disqus-identifier="gopro_hero6_black_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+
+			
+						<div class="hp-entry">			
+
+			
+
+
+<small class="hp-entry__minihead mobile-only">Latest Lens Review</small>
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review
+"
+	data-ga-path="/click/home/latest-articles/lens-review"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_review.jpg" 
+		
+	width="250" 
+	height="188" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review
+"
+			data-ga-path="/click/home/latest-articles/lens-review"			>
+						<small class="hp-entry__minihead">Latest Lens Review</small>			Laowa 105mm f/2 (T3.2) STF 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		2 Nov</small>
+								The Laowa 105mm f/2 (T3.2) STF is a mid-telephoto prime lens for 35mm full-frame DSLR cameras, with an apodization element for enhanced smoothness and bokeh. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review
+"
+		data-ga-path="/click/home/latest-articles/lens-review"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review/
+	
+	comments/#disqus_thread" data-disqus-identifier="laowa_105mm_f2_stf_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+		</div>
+		<!-- .row -->
+
+
+			</div>
+			<!-- /.hp-entry-wrap -->
+
+						<div class="hp-ad-block">	
+				<div data-ns="halfpage"></div>
+			</div>
+			
+		</div>
+		<!-- /.row -->
+
+
+
+
+
+		 
+
+		<div class="row image-wrap">
+
+		 
+
+																		
+			<div class="hp-entry hp-entry--image">
+
+					
+
+		
+	
+<a 
+	class="" 
+	href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+	data-ga-path="/click/home/latest-articles/latest-preview"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_photos.jpg" 
+		
+	width="250" 
+	height="167" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+			</div>
+			<!-- /.entry -->
+						
+
+			 
+
+						
+			<div class="hp-entry hp-entry--image">
+
+					
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/wd_my_cloud_home_review"
+	data-ga-path="/click/home/latest-articles/latest-accessory-review"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/wd_my_cloud_home_review.jpg" 
+		
+	width="250" 
+	height="277" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+			</div>
+			<!-- /.entry -->
+						
+			
+			 
+
+						
+			<div class="hp-entry hp-entry--image">
+
+					
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses"
+	data-ga-path="/click/home/latest-articles/latest-news"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/hasselblad_xcd_lenses_2018.jpg" 
+		
+	width="250" 
+	height="182" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+			</div>
+			<!-- /.entry -->
+						
+
+		</div>
+		<!-- .row -->
+
+		
+		 
+		<div class="row">
+
+
+						<div class="hp-entry">			
+
+			
+
+
+<small class="hp-entry__minihead mobile-only">Latest Preview</small>
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+	data-ga-path="/click/home/latest-articles/latest-preview"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_photos.jpg" 
+		
+	width="250" 
+	height="167" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+			data-ga-path="/click/home/latest-articles/latest-preview"			>
+						<small class="hp-entry__minihead">Latest Preview</small>			Laowa 105mm f/2 (T3.2) STF Sample Images
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		2 Nov</small>
+								Ahead of our full review, here are some sample images taken with the Laowa 105mm f/2 (T3.2) STF lens mounted on the Nikon D850 camera.
+			</p>
+
+		
+<div class="details clearfix">
+
+									
+		
+				<a 
+		class="read-more" 
+		href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+		data-ga-path="/click/home/latest-articles/latest-preview"		>Read&nbsp;the&nbsp;Preview</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos/
+	
+	#disqus_thread" data-disqus-identifier="laowa_105mm_f2_stf_photos">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+
+						<div class="hp-entry">			
+
+			
+
+
+<small class="hp-entry__minihead mobile-only">Latest Accessory Review</small>
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/wd_my_cloud_home_review
+"
+	data-ga-path="/click/home/latest-articles/latest-accessory-review"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/wd_my_cloud_home_review.jpg" 
+		
+	width="250" 
+	height="277" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/wd_my_cloud_home_review
+"
+			data-ga-path="/click/home/latest-articles/latest-accessory-review"			>
+						<small class="hp-entry__minihead">Latest Accessory Review</small>			WD My Cloud Home 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		31 Oct</small>
+								The WD My Cloud Home is an easy to use personal cloud that integrates with mobile devices and online storage services to provide access to your files and photographs from anywhere in the world. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/wd_my_cloud_home_review
+"
+		data-ga-path="/click/home/latest-articles/latest-accessory-review"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/wd_my_cloud_home_review/
+	
+	#disqus_thread" data-disqus-identifier="wd_my_cloud_home_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+
+						<div class="hp-entry">			
+
+			
+
+
+<small class="hp-entry__minihead mobile-only">Latest News</small>
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+
+
+
+http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses
+"
+	data-ga-path="/click/home/latest-articles/latest-news"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/hasselblad_xcd_lenses_2018.jpg" 
+		
+	width="250" 
+	height="182" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+
+
+
+http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses
+"
+			data-ga-path="/click/home/latest-articles/latest-news"			>
+						<small class="hp-entry__minihead">Latest News</small>			​Hasselblad XCD 135mm and XCD 80mm Lenses
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		3 Nov</small>
+					​​Hasselblad is expanding the XCD lens range to a total of nine lenses in 2018​ with the addition of the XCD 135mm f/2.8 and ​XCD 80mm lenses.​
+			</p>
+
+		
+<div class="details clearfix">
+
+									
+		
+				<a 
+		class="read-more" 
+		href="
+
+
+
+
+
+http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses
+"
+		data-ga-path="/click/home/latest-articles/latest-news"		>Read&nbsp;the&nbsp;Story</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses/
+	
+	#disqus_thread" data-disqus-identifier="hasselblad_xcd_135mm_and_xcd_80mm_lenses">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+
+		</div>
+		<!-- .row -->
+
+
+
+		</div>
+		<!-- /.hp-section -->
+
+
+
+
+				
+
+
+
+
+
+		<div class="hp-section hp-section--camera-reviews">
+		<h3 class="hp-section__header"><a href="/reviews/">Latest Camera Reviews</a></h3>
+		
+					
+ 						<div class="hp-entry">			
+				
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/gopro_hero6_black_review"
+	data-ga-path="/click/home/reviews/review-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/gopro_hero6_black_01.jpg" 
+		
+	width="250" 
+	height="167" 
+	alt="thumbnail" 
+	class="news-image" />
+</a>	
+				
+
+
+
+			
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/gopro_hero6_black_review
+"
+			data-ga-path="/click/home/reviews/review-1"			>
+						GoPro HERO6 Black 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		31 Oct</small>
+								The GoPro HERO6 Black action camera features 4K video recording at 60fps, Full HD video at 240fps, a 12 megapixel sensor, the most advanced video stabilisation ever,  and a new “QuikStories” app. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/gopro_hero6_black_review
+"
+		data-ga-path="/click/home/reviews/review-1"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/gopro_hero6_black_review/
+	
+	comments/#disqus_thread" data-disqus-identifier="gopro_hero6_black_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+
+			
+	
+			<ul class="hp-entry-list">
+
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				30 Oct</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/huawei_mate_10_pro"
+					data-ga-path="/click/home/reviews/review-2"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/Huawei-Mate-10-Pro.png" 
+		
+	width="90" 
+	height="62" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Huawei Mate 10 Pro
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				23 Oct</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/fujifilm_x_e3_review"
+					data-ga-path="/click/home/reviews/review-3"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/fujifilm_x_e3.jpg" 
+		
+	width="90" 
+	height="67" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Fujifilm X-E3
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				18 Oct</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/canon_eos_m100_review"
+					data-ga-path="/click/home/reviews/review-4"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_eos_m100_review.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Canon EOS M100
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				11 Oct</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/fujifilm_instax_square_sq10_review"
+					data-ga-path="/click/home/reviews/review-5"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/fujifilm_instax_square_sq10_review.jpg" 
+		
+	width="90" 
+	height="99" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Fujifilm Instax Square SQ10
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				9 Oct</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/canon_powershot_sx620_hs_review"
+					data-ga-path="/click/home/reviews/review-6"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_powershot_sx620hs_review.jpg" 
+		
+	width="90" 
+	height="56" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Canon PowerShot SX620 HS
+					</a>
+				</li>
+							
+								<li class="mobile-only">
+					<small class="hp-datestamp hp-datestamp--list">				19 Sep</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/olympus_om_d_e_m10_mark_iii_review"
+					data-ga-path="/click/home/reviews/review-7"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/olympus_om_d_e_m10_mark_iii_review.JPG" 
+		
+	width="90" 
+	height="64" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Olympus OM-D E-M10 Mark III
+					</a>
+				</li>
+						</ul>
+
+
+						<div class="hp-ad-block">	
+				<div data-ns="halfpage"></div>
+			</div>
+			
+
+		</div>
+		<!-- /.hp-section -->
+
+
+
+
+				
+
+
+
+
+						<div class="hp-section hp-section--popular-reviews">
+		<h3 class="hp-section__header"><a href="/reviews/">Popular Camera Reviews</a></h3>
+		
+					
+ 						<div class="hp-entry">			
+				
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/canon_eos_200d_review"
+	data-ga-path="/click/home/popular-reviews/review-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/canon_eos_200d_review.jpg" 
+		
+	width="250" 
+	height="196" 
+	alt="thumbnail" 
+	class="news-image" />
+</a>	
+				
+
+
+
+			
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/canon_eos_200d_review
+"
+			data-ga-path="/click/home/popular-reviews/review-1"			>
+						Canon EOS 200D 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		24 Jul</small>
+								The new EOS 200D / Rebel SL2 is Canon&#039;s smallest and lightest DSLR camera. Aimed mainly at beginners, the EOS 200D / Rebel SL2 is also an attractive proposition for experienced photographers looking for a more compact body. Find out if it can satisfy both by reading our Canon EOS 200D / Rebel SL2 review...
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/canon_eos_200d_review
+"
+		data-ga-path="/click/home/popular-reviews/review-1"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/canon_eos_200d_review/
+	
+	comments/#disqus_thread" data-disqus-identifier="32008">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+
+			
+	
+			<ul class="hp-entry-list">
+
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				6 Jul 					</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/nikon_coolpix_b700_review"
+					data-ga-path="/click/home/popular-reviews/review-2"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/nikon_coolpix_b700_review.jpg" 
+		
+	width="90" 
+	height="81" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Nikon Coolpix B700
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				19 Apr 16					</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/canon_eos_1300d_review"
+					data-ga-path="/click/home/popular-reviews/review-3"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_eos_1300d_review.jpg" 
+		
+	width="90" 
+	height="80" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Canon EOS 1300D
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				14 Sep 					</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/nikon_d850_review"
+					data-ga-path="/click/home/popular-reviews/review-4"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/nikon_d850.jpg" 
+		
+	width="90" 
+	height="74" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Nikon D850
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				1 Nov 16					</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/nikon_coolpix_b500_review"
+					data-ga-path="/click/home/popular-reviews/review-5"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/nikon_coolpix_b500_review.jpg" 
+		
+	width="90" 
+	height="75" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Nikon Coolpix B500
+					</a>
+				</li>
+							
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				22 May 					</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/canon_powershot_sx730_hs_review"
+					data-ga-path="/click/home/popular-reviews/review-6"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_powershot_sx730_hs_review.JPG" 
+		
+	width="90" 
+	height="70" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Canon PowerShot SX730 HS
+					</a>
+				</li>
+							
+								<li class="mobile-only">
+					<small class="hp-datestamp hp-datestamp--list">				18 May 					</small>
+
+					<a 
+					href="http://www.photographyblog.com/reviews/panasonic_lumix_dc_tz90_review"
+					data-ga-path="/click/home/popular-reviews/review-7"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/panasonic_lumix_dc_tz90_review.jpg" 
+		
+	width="90" 
+	height="64" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Panasonic Lumix DC-TZ90
+					</a>
+				</li>
+						</ul>
+
+
+						<div class="hp-ad-block">	
+				<div data-ns="halfpage"></div>
+			</div>
+			
+		</div>
+		<!-- /.hp-section -->
+
+
+
+
+				
+		 
+
+
+
+
+				<div class="hp-section hp-section--previews">
+		<h3 class="hp-section__header"><a href="/previews/">Latest Previews</a></h3>
+		
+					
+ 															 			
+			<div class="hp-entry">			
+				
+
+		
+	
+<a 
+	class="" 
+	href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+	data-ga-path="/click/home/previews/preview-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_photos.jpg" 
+		
+	width="250" 
+	height="167" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+				
+
+
+
+			
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+			data-ga-path="/click/home/previews/preview-1"			>
+						Laowa 105mm f/2 (T3.2) STF Sample Images
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		2 Nov</small>
+								Ahead of our full review, here are some sample images taken with the Laowa 105mm f/2 (T3.2) STF lens mounted on the Nikon D850 camera.
+			</p>
+
+		
+<div class="details clearfix">
+
+									
+		
+				<a 
+		class="read-more" 
+		href="
+
+
+
+
+
+http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos
+"
+		data-ga-path="/click/home/previews/preview-1"		>Read&nbsp;the&nbsp;Preview</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/previews/laowa_105mm_f2_stf_photos/
+	
+	#disqus_thread" data-disqus-identifier="laowa_105mm_f2_stf_photos">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+						
+	
+			<ul class="hp-entry-list">
+
+			
+																				
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				26 Oct</small>
+
+					<a 
+					href="
+
+
+
+						
+				
+						
+
+
+
+http://www.photographyblog.com/reviews/sony_a7r_iii_review/preview_images
+"
+					data-ga-path="/click/home/previews/preview-2"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/sony_a7r_iii_photos.jpg" 
+		
+	width="90" 
+	height="135" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Sony A7R III Sample Images
+					</a>
+				</li>
+			
+																				
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				26 Oct</small>
+
+					<a 
+					href="
+
+
+
+
+
+http://www.photographyblog.com/previews/sony_fe_24_105mm_f4_g_oss_photos
+"
+					data-ga-path="/click/home/previews/preview-3"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/sony_fe_24_105mm_f4_g_oss_photos.jpg" 
+		
+	width="90" 
+	height="135" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Sony FE 24-105mm F4 G OSS Sample Images
+					</a>
+				</li>
+			
+																				
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				17 Oct</small>
+
+					<a 
+					href="
+
+
+
+
+
+http://www.photographyblog.com/previews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_photos
+"
+					data-ga-path="/click/home/previews/preview-4"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_photos.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Nikon AF-P DX Nikkor 10-20mm f/4.5-5.6G VR Sample Images
+					</a>
+				</li>
+			
+																				
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				17 Oct</small>
+
+					<a 
+					href="
+
+
+
+						
+				
+						
+
+
+
+http://www.photographyblog.com/reviews/huawei_mate_10_pro/preview_images
+"
+					data-ga-path="/click/home/previews/preview-5"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/huawei_mate_10_pro_photos.jpg" 
+		
+	width="90" 
+	height="65" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Huawei Mate 10 Pro Sample Images
+					</a>
+				</li>
+			
+																				
+								<li class="">
+					<small class="hp-datestamp hp-datestamp--list">				16 Oct</small>
+
+					<a 
+					href="
+
+
+
+						
+				
+						
+
+
+
+http://www.photographyblog.com/reviews/canon_powershot_g1_x_mark_iii_review/preview_images
+"
+					data-ga-path="/click/home/previews/preview-6"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_powershot_g1_x_mk_iii_photos.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Canon PowerShot G1 X Mark III Sample Images
+					</a>
+				</li>
+			
+																				
+								<li class="mobile-only">
+					<small class="hp-datestamp hp-datestamp--list">				13 Oct</small>
+
+					<a 
+					href="
+
+
+
+						
+				
+						
+
+
+
+http://www.photographyblog.com/reviews/canon_eos_m100_review/preview_images
+"
+					data-ga-path="/click/home/previews/preview-7"
+					>
+					
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_eos_m100_photos.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+		
+					Canon EOS M100 Sample Images
+					</a>
+				</li>
+									</ul>
+
+
+									<div class="hp-ad-block">	
+
+				<!-- /1004954/Applaud_MPU_300x250 -->
+				<div id='div-gpt-ad-1470749537472-1' style='height:250px; width:300px;'>
+				<script>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470749537472-1'); });
+				</script>
+				</div>
+
+			</div>
+						 	
+		</div>
+		<!-- /.hp-section -->
+
+
+
+
+
+				
+
+
+
+				<div class="hp-section hp-section--lens-reviews">
+		<h3 class="hp-section__header"><a href="/reviews/#lenses">Lens Reviews</a></h3>
+					
+			<div class="hp-entry-wrap">				
+
+				<div class="row image-wrap">
+						
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review"
+	data-ga-path="/click/home/lens-reviews/lens-review-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_review.jpg" 
+		
+	width="250" 
+	height="188" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+							
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review"
+	data-ga-path="/click/home/lens-reviews/lens-review-2"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review.JPG" 
+		
+	width="250" 
+	height="268" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+				</div>
+		<!-- .row -->
+
+		 
+		<div class="row">
+
+						<div class="hp-entry">			
+
+			
+
+
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review
+"
+	data-ga-path="/click/home/lens-reviews/lens-review-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/laowa_105mm_f2_stf_review.jpg" 
+		
+	width="250" 
+	height="188" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review
+"
+			data-ga-path="/click/home/lens-reviews/lens-review-1"			>
+						Laowa 105mm f/2 (T3.2) STF 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		2 Nov</small>
+								The Laowa 105mm f/2 (T3.2) STF is a mid-telephoto prime lens for 35mm full-frame DSLR cameras, with an apodization element for enhanced smoothness and bokeh. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review
+"
+		data-ga-path="/click/home/lens-reviews/lens-review-1"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/laowa_105mm_f2_stf_review/
+	
+	comments/#disqus_thread" data-disqus-identifier="laowa_105mm_f2_stf_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+
+			
+						<div class="hp-entry entry-2">			
+
+			
+
+
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review
+"
+	data-ga-path="/click/home/lens-reviews/lens-review-2"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review.JPG" 
+		
+	width="250" 
+	height="268" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review
+"
+			data-ga-path="/click/home/lens-reviews/lens-review-2"			>
+						Nikon AF-P DX Nikkor 10-20mm f/4.5-5.6G VR 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		31 Oct</small>
+								The Nikon AF-P DX Nikkor 10-20mm f/4.5-5.6G VR is a very affordable ultra-wide-angle zoom lens for DX-format digital SLR cameras. This lens provides an effective focal range of 15-30mm, features quiet and fast auto-focusing, offers 3.5 stops of Vibration Reduction, and is very lightweight and compact. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review
+"
+		data-ga-path="/click/home/lens-reviews/lens-review-2"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review/
+	
+	comments/#disqus_thread" data-disqus-identifier="nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+		</div>
+		<!-- .row -->
+
+
+		</div>
+		<!-- /.hp-entry-wrap -->
+
+		<ul class="hp-entry-list hp-entry-list--lens-reviews">
+
+					
+						<li class="mobile-only">
+				<small class="hp-datestamp hp-datestamp--list">				31 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review"
+				data-ga-path="/click/home/lens-reviews/lens-review-2"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_60xAUTO_fit_center-center_90/nikon_afp_dx_nikkor_10_20mm_f_4_5_5_6_g_vr_review.JPG" 
+		
+	width="60" 
+	height="64" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Nikon AF-P DX Nikkor 10-20mm f/4.5-5.6G VR
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				20 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/fujifilm_gf_110mm_f_2_r_lm_wr_review"
+				data-ga-path="/click/home/lens-reviews/lens-review-3"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_60xAUTO_fit_center-center_90/fujifilm_gf_110mm_f_2_r_lm_wr_review.JPG" 
+		
+	width="60" 
+	height="42" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Fujifilm GF 110mm F2 R LM WR
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				19 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/fujifilm_gf_23mm_f_4_r_lm_wr_review"
+				data-ga-path="/click/home/lens-reviews/lens-review-4"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_60xAUTO_fit_center-center_90/fujifilm_gf_23mm_f_4_r_lm_wr_review.JPG" 
+		
+	width="60" 
+	height="49" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Fujifilm GF 23mm f4 R LM WR
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				17 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/fujifilm_gf_32_64mm_f_4_r_lm_wr_review"
+				data-ga-path="/click/home/lens-reviews/lens-review-5"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_60xAUTO_fit_center-center_90/fujifilm_gf_32_64mm_f_4_r_lm_wr_review.jpg" 
+		
+	width="60" 
+	height="82" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Fujifilm GF 32-64mm f4 R LM WR
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				12 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/voigtlander_40mm_f1_2_nokton_aspherical_review"
+				data-ga-path="/click/home/lens-reviews/lens-review-6"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_60xAUTO_fit_center-center_90/voigtlander_40mm_f1_2_nokton_aspherical_review.jpg" 
+		
+	width="60" 
+	height="65" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Voigtlander 40mm f1.2 Nokton Aspherical
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				11 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/nikon_afp_nikkor_70_300mm_f4_5_5_6_e_ed_vr_review"
+				data-ga-path="/click/home/lens-reviews/lens-review-7"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_60xAUTO_fit_center-center_90/nikon_afp_nikkor_70_300mm_f4_5_5_6_e_ed_vr_review.JPG" 
+		
+	width="60" 
+	height="31" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Nikon AF-P Nikkor 70-300mm f/4.5-5.6E ED VR
+				</a>
+			</li>
+				</ul>
+
+		</div>
+		<!-- /.hp-section -->
+
+
+
+
+				<div class="hp-section hp-section--accessory-reviews">
+		<h3 class="hp-section__header"><a href="/reviews/">Accessory Reviews</a></h3>
+					
+			<div class="hp-entry-wrap">				
+
+				<div class="row image-wrap">
+						
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/wd_my_cloud_home_review"
+	data-ga-path="/click/home/other-reviews/other-review-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/wd_my_cloud_home_review.jpg" 
+		
+	width="250" 
+	height="277" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+							
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/reviews/canon_selphy_cp1300_review"
+	data-ga-path="/click/home/other-reviews/other-review-2"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/canon_selphy_cp1300_review.jpg" 
+		
+	width="250" 
+	height="155" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+				</div>
+		<!-- .row -->
+
+		 
+		<div class="row">
+
+						<div class="hp-entry">			
+
+			
+
+
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/wd_my_cloud_home_review
+"
+	data-ga-path="/click/home/other-reviews/other-review-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/wd_my_cloud_home_review.jpg" 
+		
+	width="250" 
+	height="277" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/wd_my_cloud_home_review
+"
+			data-ga-path="/click/home/other-reviews/other-review-1"			>
+						WD My Cloud Home 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		31 Oct</small>
+								The WD My Cloud Home is an easy to use personal cloud that integrates with mobile devices and online storage services to provide access to your files and photographs from anywhere in the world. 
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/wd_my_cloud_home_review
+"
+		data-ga-path="/click/home/other-reviews/other-review-1"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/wd_my_cloud_home_review/
+	
+	#disqus_thread" data-disqus-identifier="wd_my_cloud_home_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+
+			
+						<div class="hp-entry entry-2">			
+
+			
+
+
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+http://www.photographyblog.com/reviews/canon_selphy_cp1300_review
+"
+	data-ga-path="/click/home/other-reviews/other-review-2"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/canon_selphy_cp1300_review.jpg" 
+		
+	width="250" 
+	height="155" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+http://www.photographyblog.com/reviews/canon_selphy_cp1300_review
+"
+			data-ga-path="/click/home/other-reviews/other-review-2"			>
+						Canon SELPHY CP1300 
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		30 Oct</small>
+								The Canon SELPHY CP1300 is a new wireless compact photo printer with a large 3.2-inch LCD screen. Is this the perfect family printer? Find out by reading our Canon SELPHY CP1300 review...
+			</p>
+
+		
+<div class="details clearfix">
+
+							
+				<a 
+		class="read-more" 
+		href="
+
+
+http://www.photographyblog.com/reviews/canon_selphy_cp1300_review
+"
+		data-ga-path="/click/home/other-reviews/other-review-2"		>Read&nbsp;the&nbsp;Review</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/reviews/canon_selphy_cp1300_review/
+	
+	#disqus_thread" data-disqus-identifier="canon_selphy_cp1300_review">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+		</div>
+		<!-- .row -->
+
+
+		</div>
+		<!-- /.hp-entry-wrap -->
+
+		<ul class="hp-entry-list hp-entry-list--short-reviews">
+
+					
+						<li class="mobile-only">
+				<small class="hp-datestamp hp-datestamp--list">				30 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/canon_selphy_cp1300_review"
+				data-ga-path="/click/home/other-reviews/other-review-2"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_selphy_cp1300_review.jpg" 
+		
+	width="90" 
+	height="56" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Canon SELPHY CP1300
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				18 Oct</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/manfrotto_element_big_tripod_review"
+				data-ga-path="/click/home/other-reviews/other-review-3"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/manfrotto-element-tripod-product-images-07.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Manfrotto Element Big Tripod
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				25 Sep</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/rogue_flashbender_2_xl_pro_lighting_system_review"
+				data-ga-path="/click/home/other-reviews/other-review-4"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/rogue_flashbender_2_xl_pro_lighting_system_review.jpg" 
+		
+	width="90" 
+	height="90" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Rogue FlashBender 2 XL Pro Lighting System
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				13 Sep</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/aurora_hdr_2018_review"
+				data-ga-path="/click/home/other-reviews/other-review-5"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/aurora_hdr_2018_review.jpg" 
+		
+	width="90" 
+	height="45" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Aurora HDR 2018
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				21 Aug</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/miggo_pictar_review"
+				data-ga-path="/click/home/other-reviews/other-review-6"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/miggo_pictar_review.jpg" 
+		
+	width="90" 
+	height="68" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Miggo Pictar
+				</a>
+			</li>
+					
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				8 Aug</small>
+
+				<a 
+				href="http://www.photographyblog.com/reviews/loupedeck_review"
+				data-ga-path="/click/home/other-reviews/other-review-7"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/loupedeck_review.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Loupedeck
+				</a>
+			</li>
+				</ul>
+
+		</div>
+		<!-- /.hp-section -->
+
+
+
+				
+
+
+
+
+				<div class="hp-section hp-section--news">
+		<h3 class="hp-section__header"><a href="/news/">News</a></h3>
+			
+			<div class="hp-entry-wrap">				
+
+				<div class="row image-wrap">
+						
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses"
+	data-ga-path="/click/home/news/news-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/hasselblad_xcd_lenses_2018.jpg" 
+		
+	width="250" 
+	height="182" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+							
+				 
+
+										
+					<div class="hp-entry hp-entry--image">
+
+							
+
+		
+	
+<a 
+	class="" 
+	href="http://www.photographyblog.com/news/halide_1_5_for_iphone_x"
+	data-ga-path="/click/home/news/news-2"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/halide_1_5.jpg" 
+		
+	width="250" 
+	height="334" 
+	alt="thumbnail" 
+	class="" />
+</a>	
+					</div>
+					<!-- /.entry -->
+					
+				</div>
+		<!-- .row -->
+
+		 
+		<div class="row">
+
+						<div class="hp-entry">			
+
+			
+
+
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+
+
+
+http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses
+"
+	data-ga-path="/click/home/news/news-1"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/hasselblad_xcd_lenses_2018.jpg" 
+		
+	width="250" 
+	height="182" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+
+
+
+http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses
+"
+			data-ga-path="/click/home/news/news-1"			>
+						​Hasselblad XCD 135mm and XCD 80mm Lenses
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		3 Nov</small>
+					​​Hasselblad is expanding the XCD lens range to a total of nine lenses in 2018​ with the addition of the XCD 135mm f/2.8 and ​XCD 80mm lenses.​
+			</p>
+
+		
+<div class="details clearfix">
+
+									
+		
+				<a 
+		class="read-more" 
+		href="
+
+
+
+
+
+http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses
+"
+		data-ga-path="/click/home/news/news-1"		>Read&nbsp;the&nbsp;Story</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/news/hasselblad_xcd_135mm_and_xcd_80mm_lenses/
+	
+	#disqus_thread" data-disqus-identifier="hasselblad_xcd_135mm_and_xcd_80mm_lenses">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+			</div>
+			<!-- /.entry -->
+
+			
+						<div class="hp-entry entry-2">			
+
+			
+
+
+
+		
+
+		
+	
+<a 
+	class="mobile-only" 
+	href="
+
+
+
+
+
+http://www.photographyblog.com/news/halide_1_5_for_iphone_x
+"
+	data-ga-path="/click/home/news/news-2"	
+> 
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_250xAUTO_fit_center-center_90/halide_1_5.jpg" 
+		
+	width="250" 
+	height="334" 
+	alt="thumbnail" 
+	class="" />
+</a>		
+		<h4 class="hp-entry__title">
+			<a href="
+
+
+
+
+
+http://www.photographyblog.com/news/halide_1_5_for_iphone_x
+"
+			data-ga-path="/click/home/news/news-2"			>
+						Halide 1.5 for iPhone X
+			</a>
+		</h4>
+
+		<p><small class="hp-datestamp">
+		3 Nov</small>
+					​Halide 1.5 is a camera app with a redesigned user interface made from scratch for iPhone X.
+			</p>
+
+		
+<div class="details clearfix">
+
+									
+		
+				<a 
+		class="read-more" 
+		href="
+
+
+
+
+
+http://www.photographyblog.com/news/halide_1_5_for_iphone_x
+"
+		data-ga-path="/click/home/news/news-2"		>Read&nbsp;the&nbsp;Story</a>
+		<span class="vdiv">|</span> 		
+	
+						
+		<a href="http://www.photographyblog.com/news/halide_1_5_for_iphone_x/
+	
+	#disqus_thread" data-disqus-identifier="halide_1_5_for_iphone_x">Comment</a>  
+
+
+		
+
+		</div><!-- .details -->
+			
+
+			</div>
+			<!-- /.entry -->
+			
+		</div>
+		<!-- .row -->
+
+
+		</div>
+		<!-- /.hp-entry-wrap -->
+
+		<ul class="hp-entry-list hp-entry-list--short-reviews">
+
+					
+												
+						<li class="mobile-only">
+				<small class="hp-datestamp hp-datestamp--list">				3 Nov</small>
+
+				<a 
+				href="
+
+
+
+
+
+http://www.photographyblog.com/news/halide_1_5_for_iphone_x
+"
+				data-ga-path="/click/home/news/news-2"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/halide_1_5.jpg" 
+		
+	width="90" 
+	height="120" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Halide 1.5 for iPhone X
+				</a>
+			</li>
+					
+												
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				3 Nov</small>
+
+				<a 
+				href="
+
+
+
+
+
+http://www.photographyblog.com/news/benro_hd_series_3_way_heads
+"
+				data-ga-path="/click/home/news/news-3"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/benro_hd2a.jpg" 
+		
+	width="90" 
+	height="61" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Benro HD Series 3-way Heads
+				</a>
+			</li>
+					
+												
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				2 Nov</small>
+
+				<a 
+				href="
+
+
+
+
+
+http://www.photographyblog.com/news/lomoinstant_automat_glass_kilimanjaro
+"
+				data-ga-path="/click/home/news/news-4"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/lomoinstant_automat_glass_kilimanjaro.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Lomo’Instant Automat Glass Kilimanjaro
+				</a>
+			</li>
+					
+												
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				2 Nov</small>
+
+				<a 
+				href="
+
+
+
+
+
+http://www.photographyblog.com/news/affinity_v1_6_adds_performance_enhancements_and_a_light_user_interface
+"
+				data-ga-path="/click/home/news/news-5"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/affinityPhotoWindows.jpg" 
+		
+	width="90" 
+	height="51" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Affinity v1.6 Adds Performance Enhancements and a Light User Interface
+				</a>
+			</li>
+					
+												
+						<li class="">
+				<small class="hp-datestamp hp-datestamp--list">				2 Nov</small>
+
+				<a 
+				href="
+
+
+
+
+
+http://www.photographyblog.com/news/film_stocks_v3_0_new_version_of_popular_photo_and_video_plug_in
+"
+				data-ga-path="/click/home/news/news-6"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/dft.jpg" 
+		
+	width="90" 
+	height="90" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Film Stocks v3.0 - New Version of Popular Photo and Video Plug-in
+				</a>
+			</li>
+					
+												
+						<li class="mobile-only">
+				<small class="hp-datestamp hp-datestamp--list">				2 Nov</small>
+
+				<a 
+				href="
+
+
+
+
+
+http://www.photographyblog.com/news/win_a_25x_zoom_20_megapixel_canon_camera
+"
+				data-ga-path="/click/home/news/news-7"
+				>
+				
+
+		
+	
+
+
+<img 
+		src="http://www.photographyblog.com/uploads/entryImages/_90xAUTO_fit_center-center_90/canon_contest_october_2017.jpg" 
+		
+	width="90" 
+	height="60" 
+	alt="thumbnail" 
+	class="news-image" />
+	
+				Win a 25x Zoom, 20 Megapixel Canon Camera!
+				</a>
+			</li>
+				</ul>
+
+		</div>
+		<!-- /.hp-section -->
+
+
+
+</div>
+<!-- content-inner -->
+
+
+		</div><!-- #content -->
+
+  	</div><!-- #content-wrap -->
+
+
+	<div id="footer" role="contentinfo">
+
+		<!-- /1004954/Applaud_leaderboard_728x90 -->
+	<div class="footer-leaderboard desktop-only" id='div-gpt-ad-1470749537472-0' style='height:90px; width:728px;'>
+	<script>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470749537472-0'); });
+	</script>
+	</div>
+	 	
+	<p>
+		<a href="/" data-ga-path="/click/footer/home">Home</a> <b>&middot;</b> 
+		<a href="/reviews/" data-ga-path="/click/footer/reviews">Camera Reviews</a> 
+
+ 		<b>&middot;</b> 
+
+		<a href="/reviews/#lenses" data-ga-path="/click/footer/lens-reviews">Lens Reviews</a> <b>&middot;</b> 
+		<a href="/news/" data-ga-path="/click/footer/news"href="/">Photography News</a> <b>&middot;</b> 
+		<a href="/category/photography_techniques/" data-ga-path="/click/footer/how-to">How-To</a> 
+	</p>
+	
+
+	<p>
+		<a class="geo-world" href="/best_cameras/" data-ga-path="/click/footer/best-digital-cameras/us">Best Digital Cameras</a>
+		<a class="geo-uk" href="/best_cameras/uk/" data-ga-path="/click/footer/best-digital-cameras/uk">Best Digital Cameras</a>
+
+ 		<b>&middot;</b> 
+
+		<a class="geo-world" href="/best_cameras/us/dslr/" data-ga-path="/click/footer/best-digital-cameras/us">Best DSLRs</a> 
+		<a class="geo-uk" href="/best_cameras/uk/dslr/" data-ga-path="/click/footer/best-digital-cameras/uk">Best DSLRs</a> 
+
+ 		<b>&middot;</b> 
+
+		<a class="geo-world" href="/best_cameras/us/compact/" data-ga-path="/click/footer/best-digital-cameras/us">Best Compact Cameras</a>
+		<a class="geo-uk" href="/best_cameras/uk/compact/" data-ga-path="/click/footer/best-digital-cameras/uk">Best Compact Cameras</a>
+
+	</p>
+
+	<p>
+		<a href="/search/" data-ga-path="/click/footer/search">Search</a> <b>&middot;</b> 
+		<a href="/advertising.php" data-ga-path="/click/footer/advertise">Advertise</a> <b>&middot;</b> 
+		<a href="/page/about/" data-ga-path="/click/footer/about">About</a> <b>&middot;</b> 
+		<a href="/page/privacy/" data-ga-path="/click/footer/privacy">Privacy</a> <b>&middot;</b> 
+		<a href="/page/about/#contact" data-ga-path="/click/footer/contact">Contact Us</a> 
+
+
+	</p>
+	
+	<p>
+			
+			&copy; Copyright 2003-2017 Photo 360 Limited</p>
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+
+
+<script id="dsq-count-scr" src="//photography-blog-1.disqus.com/count.js" async></script>
+
+
+<!-- /1004954/Pblog_AdUnit_ROS_1x1_Wallpaper -->
+<div id='div-gpt-ad-1463504159754-0' style='height:1px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1463504159754-0'); });
+</script>
+</div>
+
+<!-- /1004954/Pblog_AdUnit_ROS_1x2_Rich_media -->
+<div id='div-gpt-ad-1463504159754-1' style='height:2px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1463504159754-1'); });
+</script>
+</div>
+
+<!-- /1004954/Pblog_AdUnit_ROS_1x3_Mobile -->
+<div id='div-gpt-ad-1463504159754-2' style='height:3px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1463504159754-2'); });
+</script>
+</div>
+
+<!-- /1004954/Pblog_AdUnit_ROS_1x4_Content_break -->
+<div id='div-gpt-ad-1463504159754-3' style='height:4px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1463504159754-3'); });
+</script>
+</div>
+
+
+<!-- Applaud 2016-11 -->
+
+<!-- /1004954/Pblog_AdUnit_ROS_1x3_Mobile2 -->
+<div id='div-gpt-ad-1478534119227-0' style='height:3px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478534119227-0'); });
+</script>
+</div>
+ 
+<!-- /1004954/Pblog_AdUnit_ROS_1x4_Content_break2 -->
+<div id='div-gpt-ad-1478534119227-1' style='height:4px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478534119227-1'); });
+</script>
+</div>
+ 
+<!-- /1004954/Pblog_AdUnit_ROS_1x1_custom1 -->
+<div id='div-gpt-ad-1478534119227-2' style='height:1px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478534119227-2'); });
+</script>
+</div>
+
+
+
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+ 
+
+
+
+
+<!-- Start of eXelate Tag --> <script type="text/javascript"> window.xl8_config = { "p": 788, "g": 4, "cssObjects": [ {'selector' : 'meta', 'key' : 'property', 'value' : 'content' }] }; var xl8_script = document.createElement("script"); xl8_script.src = "http://cdn.exelator.com/build/static.min.js"; xl8_script.type = "text/javascript"; xl8_script.async = true; document.body.appendChild(xl8_script); </script> <!-- End of eXelate Tag -->
+
+
+<script>
+// DEFINE YOUR KEYWORDS WITHIN QUOTES
+var captify_kw_query_11675 = "";
+
+// DO NOT MODIFY CODE BELOW
+(function(c,a,p,t,i,f,y){i=c.createElement(a);t=c.getElementsByTagName(a)[0];i.type='text/javascript';i.async=true;i.src=p;t.parentNode.insertBefore(i,t);})(document,'script','https://p.cpx.to/p/11675/px.js');
+</script>
+ 
+
+</body>
+</html>
